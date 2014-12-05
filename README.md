@@ -1,3 +1,5 @@
+[ ![Codeship Status for bozcotty/UrbanHoe](https://codeship.com/projects/cfb433d0-5e5c-0132-a266-72d241f098bc/status)](https://codeship.com/projects/51328)
+
 # UrbanHoe
 * The "What-to-Grow-and-When-and-How" Site for Urban Gardeners
 
